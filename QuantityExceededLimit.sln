@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuantityExceededLimit", "QuantityExceededLimit.vbproj", "{DDC7215C-C011-4CD4-A4B9-87C8B60D6D3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuantityExceededLimit_JOB", "..\QuantityExceededLimit_JOB\QuantityExceededLimit_JOB.vdproj", "{A47CB5BD-1E0C-4341-996D-FE5C4F70A9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC7215C-C011-4CD4-A4B9-87C8B60D6D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC7215C-C011-4CD4-A4B9-87C8B60D6D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC7215C-C011-4CD4-A4B9-87C8B60D6D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC7215C-C011-4CD4-A4B9-87C8B60D6D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47CB5BD-1E0C-4341-996D-FE5C4F70A9EB}.Debug|Any CPU.ActiveCfg = Debug
+		{A47CB5BD-1E0C-4341-996D-FE5C4F70A9EB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACEF618-C748-4EE1-9B78-6D4CE157E9C4}
+	EndGlobalSection
+EndGlobal
